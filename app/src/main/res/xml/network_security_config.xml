@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <!--- you need config the domain in your file,it will help us to cache video -->
+    <domain-config cleartextTrafficPermitted="true">
+
+        <domain includeSubdomains="true">192.168.1.9</domain>
+
+    </domain-config>
+</network-security-config>
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">cloudbase.evanto.xyz</domain>
+    </domain-config>
+</network-security-config>-->
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeIconButton"
+        android:icon="@drawable/home_icon"
+        android:title="Home" />
+    <item
+        android:id="@+id/exploreIconButton"
+        android:icon="@drawable/explore_icon"
+        android:title="Explore" />
+    <item
+        android:id="@+id/wishlistIconButton"
+        android:icon="@drawable/wishlist_icon"
+        android:title="Wishlist" />
+</menu>

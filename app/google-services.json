@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "218925576964",
+    "firebase_url": "https://iammoviesflaskpro-default-rtdb.firebaseio.com",
+    "project_id": "iammoviesflaskpro",
+    "storage_bucket": "iammoviesflaskpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218925576964:android:73357bee06021d0d595651",
+        "android_client_info": {
+          "package_name": "com.digital.moviesbuddypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218925576964-78lbrmknon4kirmfhnifou3563tptde4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCNbCml7y_AiJHy71JfBIDneFivFaSlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218925576964-78lbrmknon4kirmfhnifou3563tptde4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218925576964:android:b846c099d6e7049c595651",
+        "android_client_info": {
+          "package_name": "com.movies.moviesbuddypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218925576964-aq5h6djcharhu1sntm7kl7ue6d77pil0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movies.moviesbuddypro",
+            "certificate_hash": "d9797a51bd9e562da89abe9568852c76485239a7"
+          }
+        },
+        {
+          "client_id": "218925576964-dvputidq16qt2ispu9lom71coat3027p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movies.moviesbuddypro",
+            "certificate_hash": "d250e1f8ddc5034c406acfc47ea1266591ee549e"
+          }
+        },
+        {
+          "client_id": "218925576964-78lbrmknon4kirmfhnifou3563tptde4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCNbCml7y_AiJHy71JfBIDneFivFaSlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218925576964-78lbrmknon4kirmfhnifou3563tptde4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

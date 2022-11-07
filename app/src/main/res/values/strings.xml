@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Movies Buddy Pro</string>
+    <string name="app_logo_string">Movies Buddy Pro Logo</string>
+
+    <string name="onboarding_title_1">Unlimited entertainment,\nat free of cost.</string>
+    <string name="onboarding_description_1">Everything available on Movies Buddy, just catch it free.</string>
+
+    <string name="onboarding_title_2">Download anything and\nwatch offline.</string>
+    <string name="onboarding_description_2">Just download something from Movies Buddy and watch offline.</string>
+
+    <string name="onboarding_title_3">Share Movies Buddy with your family &amp; friends.</string>
+    <string name="onboarding_description_3">Just share it with your family &amp; friends and enjoy together.</string>
+
+    <string name="onboarding_screen_poster_string">Onboarding Screen Poster</string>
+    <string name="get_started_button_string">Get Started</string>
+    <string name="search_button_string">Search Button</string>
+    <string name="slider_back_image_string">Slider Back Image</string>
+    <string name="movie_poster_string">Movie Poster</string>
+
+    <string name="push_notification_key">push_notification</string>
+    <string name="msg_token_fmt">Token: %s</string>
+
+    <!---->
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="delete"><u>Delete</u></string>
+    <string name="clear">Clear</string>
+
+    <string name="del_cache_files">Delete all downloaded files</string>
+    <string name="del_file_error_empty">Empty folder already</string>
+
+    <string name="tasks_manager_demo_title">Tasks Manager Demo</string>
+    <string name="tasks_manager_demo_name" formatted="false">task: %d</string>
+    <string name="tasks_manager_demo_status_loading">Loading&#8230;</string>
+    <string name="tasks_manager_demo_status_pending">Pending</string>
+    <string name="tasks_manager_demo_status_started">Started</string>
+    <string name="tasks_manager_demo_status_connected">Connected</string>
+    <string name="tasks_manager_demo_status_progress">Progressing</string>
+    <string name="tasks_manager_demo_status_downloading" formatted="false">Downloading %d</string>
+    <string name="tasks_manager_demo_status_error">Error</string>
+    <string name="tasks_manager_demo_status_paused">Paused</string>
+    <string name="tasks_manager_demo_status_completed">Completed</string>
+    <string name="tasks_manager_demo_status_not_downloaded">Not Downloaded</string>
+    <!---->
+
+    <!---->
+    <string name="title_activity_tab">tabActivity</string>
+    <string name="label_download">Download</string>
+    <string name="label_select_all">Select All</string>
+    <string name="label_select_none">Unselect All</string>
+    <string name="title_download">DOWNLOADS</string>
+    <string name="download_retry">Retry</string>
+    <string name="download_pause">Pause</string>
+    <string name="download_resume">Resume</string>
+    <string name="download_finish">Finish</string>
+    <string name="download_wait">Wait</string>
+    <string name="download_unknown">Unknown</string>
+    <string name="open_failed">No application found to open this type of file</string>
+    <string name="download_clear">Clear All</string>
+    <string name="download_delete">Delete All</string>
+    <string name="download_edit">Edit</string>
+    <string name="download_done">Done</string>
+    <string name="download_clear_task_warning">Confirm To Clear All Download Tasks?</string>
+    <string name="download_remove_task_warning">Are You Sure You No Longer Download This Resource?</string>
+    <string name="download_delete_warning">Confirm Deletion Of Downloaded Resources?</string>
+    <string name="download_cancel">Cancel</string>
+    <string name="download_no_tasks">No Tasks</string>
+    <string name="download_no_resources">No Resources</string>
+    <string name="download_select_waring">Please select a resource</string>
+    <string name="download_title_downloading">Downloading</string>
+    <string name="download_title_downloaded">Downloaded</string>
+    <string name="download_summary">%d  Tasks Completed</string>
+    <string name="download_date_format">dd/MM/yyyy</string>
+    <string name="download_pause_all">Pause All</string>
+    <string name="download_start_all">Start All</string>
+    <!---->
+
+    <!--Language-->
+    <string name="main_language1">हिन्दी</string>
+    <string name="secondary_language1">Hindi</string>
+
+    <string name="main_language2">English</string>
+    <string name="secondary_language2">English</string>
+    <!--/Language-->
+
+    <string name="facebook_app_id">391384379109437</string>
+    <string name="fb_login_protocol_scheme">fb391384379109437</string>
+
+    <!--login String-->
+    <string name="login"><u>Login</u></string>
+    <string name="signup"><u>Sign Up</u></string>
+
+    <!--Genre List-->
+    <string name="genre">Horror,Action,Sci-Fi,Comedy,Adventure,Crime,Western,Romance,Animation,Thriller,Documentary,Biography,Drama,Music,War,Mystery,Noir,Epic,Musical,Historical,Fiction,Fantasy,Sports,Disaster,Family,Erotic,Dance,Adult</string>
+
+    <!--Demo-->
+    <string name="actor">Anil Kapoor,Aditya Roy Kapur,Disha Patani,Kunal Khemu</string>
+    <string name="genreshort">Action,Crime,Drama</string>
+    <string name="director">Mohit Suri</string>
+    <string name="language">Hindi,English</string>
+    <string name="quality">480p,720p,1080p</string>
+    <string name="subtitle">Hindi,English</string>
+    <string name="size">300 MB,1 GB,2.3 GB</string>
+
+    <!--Report-->
+    <string name="report">REPORT: If You Have Faced Any Problem During Watching Or Downloading Movies Or Web Series, The Please Contact To Movies Buddy Team.</string>
+    <string name="report_hindi">रिपोर्ट: यदि आपको Movie या Web series देखने या डाउनलोड करने के दौरान किसी भी तरह की समस्या/परेशानी होती हैं, तो कृपया Movies Buddy Team से संपर्क करें।</string>
+    <!--Report-->
+
+    <!--Link Report-->
+    <string name="report_link">If You Are Facing Any Problem During Watching Or Downloading Movies Or Web Series, Then Please Report Us.</string>
+    <!--Link Report-->
+
+    <!--Contact us-->
+    <string name="contact_us">For Any Kind Of Problem, Please Contact Our Customer Executive. You Can Talk To Our Customer Executive Through Any Of The Social Media Given Below.</string>
+    <string name="contact_us_hindi">किसी भी प्रकार के परेशानी के समाधान के लिए कृपया हमारे Customer Executive से सम्पर्क करें। निचे दिए गए किसी भी सोशल मीडिया के जरिये आप हमारे Customer Executive से बात कर सकते है। </string>
+
+    <!--Choose Plan-->
+    <string name="month_string1">1 Month</string>
+    <string name="coin_string1">2000</string>
+    <string name="rupee_string1">20</string>
+
+    <string name="month_string2">3 Month</string>
+    <string name="coin_string2">5500</string>
+    <string name="rupee_string2">60</string>
+
+    <string name="month_string3">6 Month</string>
+    <string name="coin_string3">11000</string>
+    <string name="rupee_string3">110</string>
+
+    <string name="month_string4">1 Year</string>
+    <string name="coin_string4">20000</string>
+    <string name="rupee_string4">220</string>
+
+    <string name="channel_id">MoviesBuddyProChannel</string>
+
+
+    <!--Benefits String-->
+    <string name="benefits_string">
+        (1). Ads Free\n
+        (2). User Can Demand Total %d Movies / Web Series\n
+        (3). 10:00 AM - 04:00 PM And 06:00 PM - 03:00 AM Instant Customer Support\n
+        (4). Fast Downloading\n
+        (5). User Can Watch Or Download Movie In One Click\n
+        (6). Only Premium User Can Watch Or Download Movie In 1080p As Well As 480p &amp; 720p\n
+        (7). Only Premium User Can Watch Latest Released Movie On Its Premiere</string>
+
+    <string name="plan">Plan: %d Month (~Rs.%d) / (~₡%d)</string>
+
+    <!--Choose Plan-->
+    <string name="movie_count_string1">3 Movies/Web Series</string>
+    <string name="coin_demand_quota_string1">500</string>
+    <string name="rupee_demand_quota_string1">5</string>
+
+    <string name="movie_count_string2">10 Movies/Web Series</string>
+    <string name="coin_demand_quota_string2">1400</string>
+    <string name="rupee_demand_quota_string2">15</string>
+
+    <string name="tick_string">&#x2714;</string>
+
+    <string name="dialog_download">Do You Really Want To Download This Movie? (%1$s)</string>
+    <string name="dialog_delete">Do You Really Want To Delete This Movie? (%1$s)</string>
+    <string name="dialog_delete_all">Do You Really Want To Delete All Movies/Series?</string>
+    <string name="unknown_size">Unknown size</string>
+    <string name="for_query_string">For Any Types Of Query Feel Free To Mail Us\nourmoviesflask@gmail.com</string>
+    <string name="step_to_win_demand_ticket_string">1. Click on "Win Demand Ticket" button &amp; watch video ads.\n2. After video ads complete, if you\'re lucky then you\'ll get demand ticket.\n3. Now click on "Demand Now" Button &amp; fill all required fields.\n3. Now click on "Demand" button.</string>
+    <string name="demand_note">1. Must fill IMDB link during demanding.\n2. Demanded movie/web series will be uploaded within 24&#8211;48 hrs.</string>
+
+    <string name="accept_condition_string">By logging in you agree to our Terms Of Usage and Privacy Policy, including cookies use.</string>
+    <string name="episode_title_string">Click On Episode Which You\nWantTo Download!</string>
+</resources>
